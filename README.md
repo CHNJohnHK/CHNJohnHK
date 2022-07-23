@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHNJohnHK, I’m currently learning Python to do a discord bot, JohnBot, and I’m looking to collaborate on Discord JohnBot and kook JohnBot
+- 👋 Hi, I’m @CHNJohnHK, I’m currently learning Python to do a discord bot, [JohnBot](https://github.com/CHNJohnHK/JohnBot), and I’m looking to collaborate on [Discord JohnBot](https://github.com/CHNJohnHK/JohnBot-Discord) and [kook JohnBot](https://github.com/CHNJohnHK/JohnBot-Kook)
 - 📫 My E-mail:JohnHK2022@163.com
 
 <!---

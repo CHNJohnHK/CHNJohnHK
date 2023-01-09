@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @CHNJohnHK
+- 👋 你好 我是 JohnHK 一个 py 小白
 
-
+加入我的社区
 <img alt="Discord" src="https://img.shields.io/discord/940267899023687751?label=JohnHK%27s%20Home&logo=Discord">
 
 <!---
